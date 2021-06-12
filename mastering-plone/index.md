@@ -1,7 +1,5 @@
 --------
 title: Mastering Plone
-summary: Install Plone backend and frontend
-date: 2021-05-01
 --------
 
 ## Mastering Plone

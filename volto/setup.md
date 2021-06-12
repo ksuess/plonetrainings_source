@@ -1,7 +1,5 @@
 --------
 title: Setup Volto
-summary: Install Plone backend and frontend
-date: 2021-05-01
 --------
 
 ## Setup Volto
